@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SairajGondkar
 - 👀 I’m interested in Data Science,Machine learning, Deep Learning, AI, DSA.
-- 🌱 I’m currently trying learn my above interests and be good at it.
+- 🌱 I’m currently trying to learn my above interests and be good at it.
 - 📫 How to reach me - https://www.linkedin.com/in/sairaj-gondkar-95330a1ab/ here's my linkedin profile see you there 👋.
 
 <!---
